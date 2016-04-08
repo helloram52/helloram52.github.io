@@ -35,14 +35,13 @@ $(document).ready(
         
         var list = ['.about-me', '.honors', '.education', '.portfolio', '.experience'];
 
-        $(div).toggle(true);
-
         for(var item in list) {
             if(list[item] != div) {
                 $(list[item]).toggle(false);
             }
         }
 
+        $(div).toggle(true);
     }
 
     var updateContent = function() {

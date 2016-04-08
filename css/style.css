@@ -50,6 +50,7 @@ h3 {
 
 h4 {
     margin: 15px 0 0;
+    color: steelblue;
 }
 
 p,
@@ -107,9 +108,31 @@ li {
 
 .secicon.fa {
     font-size: 28px;
-    color: #000;
     color: steelblue;
     margin-right: 10px;
+}
+
+year {
+  font-weight: bold;
+  text-align: center;
+  border-radius: 4px;
+  color: white;
+  background: #5bc0de;
+  font-size: 10px;
+  padding:5px 5px;
+  float: left;
+}
+
+gpa {
+  float:right;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 4px;
+  /*border: 2px solid #f0ad4e;*/
+  color: white;
+  background: #f0ad4e;
+  font-size: 10px;
+  padding:5px 5px;
 }
 
 .sub {

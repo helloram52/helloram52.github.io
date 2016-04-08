@@ -112,6 +112,11 @@ li {
     margin-right: 10px;
 }
 
+.buticon.fa {
+    font-size: 15px;
+    margin-right: 2px;
+}
+
 year {
   font-weight: bold;
   text-align: center;
@@ -177,3 +182,8 @@ footer p,
 footer a {
     font-size: 13px;
 }
+
+hr{
+    padding: 0px;
+    margin: 0px;    
+  }

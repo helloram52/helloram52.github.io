@@ -123,7 +123,7 @@ year {
   border-radius: 4px;
   color: white;
   background: #5bc0de;
-  font-size: 10px;
+  font-size: 12px;
   padding:5px 5px;
   float: left;
 }
@@ -136,7 +136,7 @@ gpa {
   /*border: 2px solid #f0ad4e;*/
   color: white;
   background: #f0ad4e;
-  font-size: 10px;
+  font-size: 12px;
   padding:5px 5px;
 }
 
